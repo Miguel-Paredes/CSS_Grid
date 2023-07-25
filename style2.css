@@ -1,0 +1,19 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Dos columnas de igual tamaño */
+    grid-gap: 20px;
+  }
+  
+  .item {
+    padding: 10px;
+  }
+  
+  .image img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .text {
+    background-color: #FF8599;
+  }
+  
